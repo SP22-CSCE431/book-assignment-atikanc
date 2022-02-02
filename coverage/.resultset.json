@@ -1,11 +1,31 @@
 {
   "RSpec": {
     "coverage": {
+<<<<<<< Updated upstream
       "/csce431/test_app/spec/feature/integration_spec.rb": {
+=======
+      "/csce431/spec/feature/integration_spec.rb": {
+>>>>>>> Stashed changes
         "lines": [
           null,
           1,
           null,
+<<<<<<< Updated upstream
+=======
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+>>>>>>> Stashed changes
           1,
           1,
           1,
@@ -17,7 +37,11 @@
           null
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/spec/rails_helper.rb": {
+=======
+      "/csce431/spec/rails_helper.rb": {
+>>>>>>> Stashed changes
         "lines": [
           null,
           1,
@@ -85,7 +109,11 @@
           null
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/config/environment.rb": {
+=======
+      "/csce431/config/environment.rb": {
+>>>>>>> Stashed changes
         "lines": [
           null,
           1,
@@ -94,7 +122,11 @@
           1
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/config/application.rb": {
+=======
+      "/csce431/config/application.rb": {
+>>>>>>> Stashed changes
         "lines": [
           1,
           null,
@@ -120,7 +152,11 @@
           null
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/config/boot.rb": {
+=======
+      "/csce431/config/boot.rb": {
+>>>>>>> Stashed changes
         "lines": [
           1,
           null,
@@ -128,7 +164,11 @@
           1
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/config/environments/test.rb": {
+=======
+      "/csce431/config/environments/test.rb": {
+>>>>>>> Stashed changes
         "lines": [
           1,
           null,
@@ -192,7 +232,11 @@
           null
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/config/initializers/application_controller_renderer.rb": {
+=======
+      "/csce431/config/initializers/application_controller_renderer.rb": {
+>>>>>>> Stashed changes
         "lines": [
           null,
           null,
@@ -204,7 +248,11 @@
           null
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/config/initializers/assets.rb": {
+=======
+      "/csce431/config/initializers/assets.rb": {
+>>>>>>> Stashed changes
         "lines": [
           null,
           null,
@@ -222,7 +270,11 @@
           null
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/config/initializers/backtrace_silencers.rb": {
+=======
+      "/csce431/config/initializers/backtrace_silencers.rb": {
+>>>>>>> Stashed changes
         "lines": [
           null,
           null,
@@ -234,7 +286,11 @@
           1
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/config/initializers/content_security_policy.rb": {
+=======
+      "/csce431/config/initializers/content_security_policy.rb": {
+>>>>>>> Stashed changes
         "lines": [
           null,
           null,
@@ -268,7 +324,11 @@
           null
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/config/initializers/cookies_serializer.rb": {
+=======
+      "/csce431/config/initializers/cookies_serializer.rb": {
+>>>>>>> Stashed changes
         "lines": [
           null,
           null,
@@ -277,7 +337,11 @@
           1
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/config/initializers/filter_parameter_logging.rb": {
+=======
+      "/csce431/config/initializers/filter_parameter_logging.rb": {
+>>>>>>> Stashed changes
         "lines": [
           null,
           null,
@@ -287,7 +351,11 @@
           null
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/config/initializers/inflections.rb": {
+=======
+      "/csce431/config/initializers/inflections.rb": {
+>>>>>>> Stashed changes
         "lines": [
           null,
           null,
@@ -307,7 +375,11 @@
           null
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/config/initializers/mime_types.rb": {
+=======
+      "/csce431/config/initializers/mime_types.rb": {
+>>>>>>> Stashed changes
         "lines": [
           null,
           null,
@@ -315,7 +387,11 @@
           null
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/config/initializers/permissions_policy.rb": {
+=======
+      "/csce431/config/initializers/permissions_policy.rb": {
+>>>>>>> Stashed changes
         "lines": [
           null,
           null,
@@ -330,7 +406,11 @@
           null
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/config/initializers/wrap_parameters.rb": {
+=======
+      "/csce431/config/initializers/wrap_parameters.rb": {
+>>>>>>> Stashed changes
         "lines": [
           null,
           null,
@@ -348,7 +428,11 @@
           null
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/config/routes.rb": {
+=======
+      "/csce431/config/routes.rb": {
+>>>>>>> Stashed changes
         "lines": [
           1,
           1,
@@ -356,26 +440,68 @@
           null
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/app/helpers/application_helper.rb": {
+=======
+      "/csce431/app/helpers/application_helper.rb": {
+>>>>>>> Stashed changes
         "lines": [
           1,
           null
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/app/helpers/books_helper.rb": {
+=======
+      "/csce431/app/helpers/books_helper.rb": {
+>>>>>>> Stashed changes
         "lines": [
           1,
           null
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/spec/unit/unit_spec.rb": {
+=======
+      "/csce431/spec/models/book_spec.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/csce431/spec/unit/unit_spec.rb": {
+>>>>>>> Stashed changes
         "lines": [
           null,
           1,
           null,
+<<<<<<< Updated upstream
           1,
           1,
           2,
+=======
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          5,
+>>>>>>> Stashed changes
           null,
           null,
           1,
@@ -386,6 +512,7 @@
           1,
           1,
           null,
+<<<<<<< Updated upstream
           null
         ]
       },
@@ -397,13 +524,48 @@
         ]
       },
       "/csce431/test_app/app/models/application_record.rb": {
+=======
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/csce431/app/models/book.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/csce431/app/models/application_record.rb": {
+>>>>>>> Stashed changes
         "lines": [
           1,
           1,
           null
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/app/controllers/books_controller.rb": {
+=======
+      "/csce431/app/controllers/books_controller.rb": {
+>>>>>>> Stashed changes
         "lines": [
           1,
           1,
@@ -477,13 +639,21 @@
           null
         ]
       },
+<<<<<<< Updated upstream
       "/csce431/test_app/app/controllers/application_controller.rb": {
+=======
+      "/csce431/app/controllers/application_controller.rb": {
+>>>>>>> Stashed changes
         "lines": [
           1,
           null
         ]
       }
     },
+<<<<<<< Updated upstream
     "timestamp": 1643664122
+=======
+    "timestamp": 1643756637
+>>>>>>> Stashed changes
   }
 }
